@@ -17,4 +17,4 @@
 
 ---
 
-Projeto open source na construção de uma API REST de Ordem de Servico com Java Spring. Semana Sring Rest da Algoworks.
+Projeto open source na construção de uma API REST de Ordem de Serviço com Java Spring. Semana Sring Rest para iniciantes da Algoworks.
