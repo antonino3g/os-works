@@ -1,4 +1,4 @@
-## :coffee: OS-Works
+## :coffee: OS-WORKS
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/apfjunior/os-works">
